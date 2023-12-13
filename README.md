@@ -1,5 +1,6 @@
 # Resume-Enhancement-system
 **Resume Enhancement system using LLM**
+
 **Business Problem:** Candidates face the challenge of applying to multiple jobs with the same resume, which diminishes their chances of securing a position.
 
 **Why Resume Enhancement ?**
